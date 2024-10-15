@@ -1,5 +1,5 @@
 ### Hi there, Welcome 👋
-I'm a frontend engineer and i'm driven by my love for building software products and possess good collaborative skills when working with a team. I have worked with Javascript, Css, React, Vue, React-testing and Vitest, Supabase(database) in building software products.
+I'm a frontend engineer and i'm driven by my love for building software products and possess good collaborative skills when working with a team. I have worked with Javascript, Css, React, Vue, React-testing and Vitest, Supabase(database) in building software products. I am currently learning nextjs, database management and testing.
 
 Here is a quick summary about me:
 - 🙂 Pronouns: He/Him
